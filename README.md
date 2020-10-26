@@ -1,8 +1,14 @@
 # groups
 
-[![Build Status](https://cloud.drone.io/api/badges/rolehippie/groups/status.svg)](https://cloud.drone.io/rolehippie/groups)
+[![Source Code](https://img.shields.io/badge/github-source%20code-blue?logo=github&logoColor=white)](https://github.com/rolehippie/groups) [![Build Status](https://img.shields.io/drone/build/rolehippie/groups/master?logo=drone)](https://cloud.drone.io/rolehippie/groups) [![License: Apache-2.0](https://img.shields.io/github/license/rolehippie/groups)](https://github.com/rolehippie/groups/blob/master/LICENSE) 
 
-Ansible role to configure groups
+Ansible role to create and modify system groups. 
+
+## Sponsor 
+
+[![Proact Deutschland GmbH](https://proact.eu/wp-content/uploads/2020/03/proact-logo.png)](https://proact.eu) 
+
+Building and improving this Ansible role have been sponsored by my employer **Proact Deutschland GmbH**.
 
 ## Table of content
 
