@@ -1,6 +1,11 @@
 # groups
 
-[![Source Code](https://img.shields.io/badge/github-source%20code-blue?logo=github&logoColor=white)](https://github.com/rolehippie/groups) [![General Workflow](https://github.com/rolehippie/groups/actions/workflows/general.yml/badge.svg)](https://github.com/rolehippie/groups/actions/workflows/general.yml) [![Readme Workflow](https://github.com/rolehippie/groups/actions/workflows/readme.yml/badge.svg)](https://github.com/rolehippie/groups/actions/workflows/readme.yml) [![Galaxy Workflow](https://github.com/rolehippie/groups/actions/workflows/galaxy.yml/badge.svg)](https://github.com/rolehippie/groups/actions/workflows/galaxy.yml) [![License: Apache-2.0](https://img.shields.io/github/license/rolehippie/groups)](https://github.com/rolehippie/groups/blob/master/LICENSE) [![Ansible Role](https://img.shields.io/ansible/role/51457)](https://galaxy.ansible.com/rolehippie/groups)
+[![Source Code](https://img.shields.io/badge/github-source%20code-blue?logo=github&amp;logoColor=white)](https://github.com/rolehippie/groups)
+[![General Workflow](https://github.com/rolehippie/groups/actions/workflows/general.yml/badge.svg)](https://github.com/rolehippie/groups/actions/workflows/general.yml)
+[![Readme Workflow](https://github.com/rolehippie/groups/actions/workflows/readme.yml/badge.svg)](https://github.com/rolehippie/groups/actions/workflows/readme.yml)
+[![Galaxy Workflow](https://github.com/rolehippie/groups/actions/workflows/galaxy.yml/badge.svg)](https://github.com/rolehippie/groups/actions/workflows/galaxy.yml)
+[![License: Apache-2.0](https://img.shields.io/github/license/rolehippie/groups)](https://github.com/rolehippie/groups/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/role-rolehippie.groups-blue)](https://galaxy.ansible.com/rolehippie/groups)
 
 Ansible role to create and modify system groups.
 
