@@ -1,4 +1,3 @@
-# Standards: 1.2
 ---
 - name: Create defined groups
   loop: "{{ groups_general + groups_extra }}"
