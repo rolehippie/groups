@@ -3,7 +3,7 @@
   loop: "{{ groups_general + groups_extra }}"
   loop_control:
     label: "{{ item.name }}"
-  group:
+  ansible.builtin.group:
     name: "{{ item.name }}"
     gid: "{{ item.git | default(omit) }}"
     non_unique: "{{ item.non_unique | default(omit) }}"
