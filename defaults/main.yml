@@ -1,4 +1,3 @@
-# Standards: 1.2
 ---
 # @var groups_general:description: List of global groups
 # @var groups_general:example: >
