@@ -1,4 +1,4 @@
-# groups
+# workspace
 
 [![Source Code](https://img.shields.io/badge/github-source%20code-blue?logo=github&logoColor=white)](https://github.com/rolehippie/groups)
 [![General Workflow](https://github.com/rolehippie/groups/actions/workflows/general.yml/badge.svg)](https://github.com/rolehippie/groups/actions/workflows/general.yml)
@@ -75,7 +75,6 @@ groups_general:
 ## Discovered Tags
 
 **_groups_**
-
 
 ## Dependencies
 
