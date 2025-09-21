@@ -1,4 +1,4 @@
-# workspace
+# groups
 
 [![Source Code](https://img.shields.io/badge/github-source%20code-blue?logo=github&logoColor=white)](https://github.com/rolehippie/groups)
 [![General Workflow](https://github.com/rolehippie/groups/actions/workflows/general.yml/badge.svg)](https://github.com/rolehippie/groups/actions/workflows/general.yml)
@@ -47,7 +47,7 @@ groups_extra: []
 ```YAML
 groups_extra:
   - name: sftp
-    system: True
+    system: true
   - name: group-to-delete
     state: absent
 ```
@@ -67,7 +67,7 @@ groups_general: []
 ```YAML
 groups_general:
   - name: sftp
-    system: True
+    system: true
   - name: group-to-delete
     state: absent
 ```

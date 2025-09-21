@@ -1,4 +1,5 @@
 ---
-role_name: groups
+role:
+  name: groups
 
 ...

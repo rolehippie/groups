@@ -5,10 +5,10 @@
     label: "{{ item.name }}"
   ansible.builtin.group:
     name: "{{ item.name }}"
-    gid: "{{ item.git | default(omit) }}"
-    non_unique: "{{ item.non_unique | default(omit) }}"
-    system: "{{ item.system | default(False) }}"
-    state: "{{ item.state | default('present') }}"
+    gid: "{{ omit if item.gid is undefined else item.gid }}"
+    non_unique: "{{ omit if item.non_unique is undefined else item.non_unique }}"
+    system: "{{ false if item.system is undefined else item.system }}"
+    state: "{{ 'present' if item.state is undefined else item.state }}"
   tags:
     - groups
 
